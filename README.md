@@ -1,2 +1,1 @@
-# git-demo
-Used for Learning
+Hello World! 
